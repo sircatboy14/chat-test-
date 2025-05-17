@@ -1,1 +1,3 @@
-# chat-test-
+# Vercord
+
+a discord knockoff coded by google gemini!!!
